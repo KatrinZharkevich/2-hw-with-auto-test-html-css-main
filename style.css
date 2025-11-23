@@ -1,8 +1,14 @@
 * {
     /* Свойства для сброса начальных стилей элементов */
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
-body {}
+body {
+    font-family: "Inter", sans-serif;
+    color: #303030;
+}
 
 header {
     /* Стили для хедера */
